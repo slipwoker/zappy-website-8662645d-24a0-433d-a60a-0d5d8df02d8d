@@ -1,0 +1,52 @@
+# Lenny — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### Home
+https://lenny-8662645d.zappy5.app
+
+### About
+https://lenny-8662645d.zappy5.app/about
+
+### Work
+https://lenny-8662645d.zappy5.app/work
+
+### Contact
+https://lenny-8662645d.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://lenny-8662645d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://lenny-8662645d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://lenny-8662645d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Lenny
+Lenny is a business in the General industry.
+
+## Target Audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://lenny-8662645d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://lenny-8662645d.zappy5.app/robots.txt

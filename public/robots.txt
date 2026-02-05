@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lenny-8662645d.zappy5.app/sitemap.xml
